@@ -88,6 +88,11 @@ body.bee--cs h5,
 body.bee--cs h6,
 body.bee--cs .tgl-title {
   font-family: "Roboto", sans-serif;
+  color: green;
+}
+
+.Header_header__1nncD {
+  background-color: yellow;
 }
 
 .widget-bar.widget-bar--cs,
