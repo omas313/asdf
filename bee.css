@@ -94,17 +94,17 @@ body.bee--cs .tgl-title {
 .widget-bar.widget-bar--cs .tabset__tab--cs a,
 .widget-bar.widget-bar--cs .tabset__tab--cs.active a,
 .widget-bar.widget-bar--cs .tabset__tab--cs.active a:hover {
-  border-left-color: #202020;
+  border-left-color: #ff00b3;
 }
 
 .widget-bar.widget-bar--cs .tabset__tab--cs a {
-  background: #dcdcdc;
+  background: #800e0e;
   border-bottom-color: #202020;
   color: #707070;
 }
 
 .widget-bar.widget-bar--cs .tabset__tab--cs a:hover {
-  background: #dcdcdc;
+  background: #27a263;
   color: #606060;
 }
 
@@ -134,7 +134,7 @@ body.bee--cs .dragging.module,
 body.bee--cs .dragging.row,
 body.bee--cs .dragging.new-row,
 body.bee--cs .dragging.new-module {
-  background-color: #303030;
+  background-color: #c323a0;
 }
 
 .widget-bar.widget-bar--cs .panel--default.panel--cs {
